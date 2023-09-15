@@ -4,5 +4,5 @@ write-HOST $num
 write-HOST $num1
 $t = $num + $num1
 
-write-HOST $t
-
+write-HOST $t`
+`
